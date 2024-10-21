@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jalal Saghaiebolghari
 
 Software developer focused Frontend with over 6 years of experience in various large and successful projects such as online shopping, customer panel, ERP systems, iot,  etc.  
-Proven expertise in Angular, HTML5, CSS3, TypeScript, Tailwind, Bootstrap, responsive design, jset, cypress , and backend frameworks (like .NET Core, SQL, etc.).
+Proven expertise in Angular, HTML5, CSS3, TypeScript, Tailwind, Bootstrap, responsive design, jest, cypress , and backend frameworks (like .NET Core, SQL, etc.).
 
 📫 How to reach me jalalsaghaybolghari@gmail.com
 
