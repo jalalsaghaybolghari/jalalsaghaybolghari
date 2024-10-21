@@ -1,14 +1,10 @@
 - 👋 Hi, I’m Jalal Saghaiebolghari
 
-Software developer focus Frontend with about 6 years of experience in coding, testing, improving, and establishing systems. I have successfully contributed to enterprise and large projects. I am skilled in Angular, .Net, Entity Framework, SQL Server, React, TypeScript, Angular, Java, and various tools and technologies for developing and deploying big project solutions. 
-I'm interested in creating scalable architecture for enterprise solutions.
-
 Software developer focused Frontend with over 6 years of experience in various large and successful projects such as online shopping, customer panel, ERP systems, iot,  etc.  
 Proven expertise in Angular, HTML5, CSS3, TypeScript, Tailwind, Bootstrap, responsive design, jset, cypress , and backend frameworks (like .NET Core, SQL, etc.).
 
 📫 How to reach me jalalsaghaybolghari@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalsaghaybolghari&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalsaghaybolghari&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
